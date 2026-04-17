@@ -1,0 +1,7 @@
+# Ignore nano-cleaner temporary and cache files
+*.tmp
+*.cache
+*.log
+__pycache__/
+.pytest_cache/
+*.pyc
